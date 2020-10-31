@@ -47,7 +47,7 @@ To use the command line implementation in a terminal or command window, navigate
 python predict.py path/to/image path/to/model 
 ```
 
-Examble:
+**Examble:**
 
 ```bash
 python predict.py test_images/cautleya_spicata.jpg best_model.h5
@@ -57,7 +57,7 @@ There are also some optional parameters:-
 - --top_k returns: the top k classes with their probabilties.
 - --category_names: a json file that maps each class number with a class name
 
-Examble:
+**Examble:**
 
 ```bash
 python predict.py test_images/cautleya_spicata.jpg best_model.h5 --top_k 6 --category_names label_map.json
