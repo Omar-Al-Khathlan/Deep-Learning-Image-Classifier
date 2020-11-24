@@ -2,7 +2,7 @@
 # Deep Learning
 ## Project: Deep Learning Image Classifier
 
-Project code for Udacity's Intro to Machine Learning with TensorFlow Nanodegree program. In this project, I developed code for an image classifier built with TensorFlow, then converted it into a command line application.
+Project for Udacity's Intro to Machine Learning with TensorFlow Nanodegree program. In this project, I developed code for an image classifier built with TensorFlow, then converted it into a command line application.
 
 In order to complete this project, I used the GPU enabled workspaces within the Udacity classroom.
 
