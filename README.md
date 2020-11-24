@@ -71,3 +71,6 @@ The data for this project is quite large - in fact, it is so large you cannot up
 %pip --no-cache-dir install tfds-nightly --user
 ```
 Though actually completing the project is likely not possible on your local machine unless you have a GPU. I trained the deep learning classifier using 102 different types of flowers, where there ~20 images per flower to train on. Then I used the trained classifier to see if I can predict the type for new images of the flowers.
+
+### Certification
+<p align="middle"><a href="https://github.com/Omar-Al-Khathlan/Deep-Learning-Image-Classifier/blob/main/Certificate/Udacity%20Certificate.pdf"><img src="https://github.com/Omar-Al-Khathlan/Deep-Learning-Image-Classifier/blob/main/Certificate/Udacity%20Certificate.png"/></a></p>
